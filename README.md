@@ -4,7 +4,7 @@
 ---
 
 ## 📋 Description  
-Ce projet génère des cartes d'altitude réalistes en utilisant des algorithmes de bruit procédural. Les cartes sont exportées au format PPM.  
+Ce projet génère des cartes d'altitude en utilisant des algorithmes de bruit procédural. Les cartes sont exportées au format PPM.  
 
 ---
 
