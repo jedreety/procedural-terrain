@@ -10,11 +10,11 @@ Ce projet génère des cartes d'altitude en utilisant des algorithmes de bruit p
 
 ## 🖼️ Captures d'Écran  
 
-| Carte 1 | Lac 1 |  
+| Carte 1 | Lac |  
 |-------------------|-------------------|  
 | ![Mountains](generatedImage/Screenshots/Capture.png) | ![Valleys](generatedImage/Screenshots/Capture1.png) |  
 
-| Valée 1 | Carte 2 |  
+| Valée | Carte 2 |  
 |--------|---------------|  
 | ![Desert](generatedImage/Screenshots/Capture2.png) | ![Coast](generatedImage/Screenshots/Capture3.png) |  
 
@@ -34,7 +34,7 @@ Ce projet génère des cartes d'altitude en utilisant des algorithmes de bruit p
 double echelle = 50.0;    // Contrôle le niveau de détail global  
 int octaves = 7;          // Nombre de couches de bruit combinées  
 double persistance = 0.8; // Influence des détails à haute fréquence  
-
+```
 ---
 
 ## ⚙️ Installation & Utilisation  
